@@ -1,3 +1,5 @@
+#一个登陆读写本地文件的小demo
+
 name=['chen','wang','li']
 password='111'
 count=0
